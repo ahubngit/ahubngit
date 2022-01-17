@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahubngit
+- 👋 Hi, I’m Abby.
 - 👀 I’m interested in front-end development, ux/ui, design and networking. 
 - 🌱 I’m currently learning HTML 5, CSS, JS, React, etc/
 - 💞️ I’m looking to collaborate on front-end development projects.
